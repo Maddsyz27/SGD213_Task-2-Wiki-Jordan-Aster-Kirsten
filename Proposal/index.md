@@ -1,23 +1,21 @@
 # Project Overview
 [//]: # (This section is an example structure for the proposal to your client.)
 
->This is all sample material in here, to give you an idea on how and what to populate each section with. If you think of other sections or a different document layout, please do use it!
-
 ## Design
 [//]: # (How will you meet the client's brief, their expectations, and their requirements.)
 
 ### Project Name
-Donuts, Daggers & Dragons and other things and things bahhhhh
+Training Grounds: First Person Shooter
 
 ### Description
 [//]: # (This is the elevator pitch, sell the idea)
-Players play as humanoid donuts trained in the art of ninjitsu. 
-Players cooperate in teams of 2 to overcome the other teams in an arena-style, top-down, dagger-throwing, action-brawler. 
-After gaining victory, the winning team is given the opportunity to unlock epic loot by facing the Dragon...
+Training Grounds is a classic style first person shooter, inspired by iconic titles like Halo 1–2, Quake, Doom and Duke Nukem. The game delivers fast-paced action with straightforward mechanics, making it ideal for educational purposes.
 
 ### Begin Date
+16 April, 2025
 
 ### End Date
+1 June, 2025
 
 ### Justification
 Read the design justification [here](project_justification.md).
@@ -26,23 +24,38 @@ Read the design justification [here](project_justification.md).
 
 ## Statement of Works
 [//]: # (This section is about managing expectations; list out all of the qualities that will be in the final product)
+**Dual Weapon System**
+Players can switch between two firearms. Restrictive use of each firearm with be only when each firearm is equipped. Only one firearm can be equipped at a time.
+**Grenade Mechanic**
+A throwable grenade adds strategic depth and will allow players to manage groups of enemies.​
+**Basic Enemy AI**
+Enemies patrol predefined areas and, once the player is within a certain range, will orient themselves to face the player. This will enhance immersion without introducing complex combat behaviors.​
+**Player Movement**
+Responsive controls will enable players to navigate the environment smoothly with basic movement mechanics inclusive of a jump mechanism.​
+**Health System**
+Players can recover health through pickups scattered around the environment OR by using items stored in their inventory.​ - (waiting on Client's decision)
+**HUD Interface**
+A minimal HUD interface for the player to view health status, ammunition count for eqipped weapon, grenade indicator with count available, and currently equipped weapon. This will ensure the player has crucial real time feedback during gameplay. A centralised crosshairs will also aid in precision.
 
 ### Requirements
 [//]: # (What are the requirements of the finished project?)
-* Needs the product in 5 weeks.
-* Gameplay should be fast-paced
-* Rounds should be short
-* Should be quick to restart
-* Feedback is a major point
-* People should be drawn to it by it's appearance
-    * Needs a catchy name
+* The final concept build must to be supplied to the client by 1 June, 2025
+* Game-play should be fast-paced - similar to other shooter games like Halo 1-2, Quake, Doom and Duke Nukem.
+* Correspondance with the client regarding issues, design changes and updates will be made accordingly and in a timely manner.
+* The game should showcase basic first person shooter mechanics for educational purposes.
+* The game will include vertical a level design to incorporate movement mechanics required by client.
+* The game must adhere to target audience standards suggested by client. - (can be more specific once response from Olexiy)
+* The game should allow for a save point system if time constraints allow.
+* Development team will correspond respectfully with each other on a timely basis with any issues, concerns and/or clarification of scope.
 
 ### Expectations
 [//]: # (What are the client's expectations?)
-* Project delivered on time
-* Weekly updates on progress
-* Communication with the client when design issues encountered
-* Quality transparent project management (add the client)
+**Date of Completion**
+The final concept build will be delivered on the required date - 1 June, 2025.
+**Communication**
+The client will be updated on the progress of the project with detailed information regarding tasks currently being worked on, tasks tested and completed, future weekly steps to be implemented and overall remaining work to be completed. Any design issues or concerns will be communicated promptly with the client with steps taking to resolve said issue/concern. All correspondance with the client will be met with professionalism and courtesy.
+Communication by the development team will communicate effectively regarding completed tasks, any issues or concern related to or impact the completion of the project, is done in a timely manner. A Trello account will communicate project development (shared with Client) and a Dicord group will be used for indepth communications.
+
 * Does **not** require audio
 * Does **not** require high quality art
     * Can use basic geometry
