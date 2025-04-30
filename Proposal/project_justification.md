@@ -49,25 +49,23 @@ User Interface
 * Is there a particular code structure or architecture you would like us to follow to help support your students or for further future development?
 > When it comes to architecture and systems, the choices are up to you, since you'll have a better idea of the ideal approach once the requests and requirements are considered.
 
-* Will the player have the ability to heal after taking damage?
-
-* If so, should this be facilitated through health pickups found in the game environment, or through health pickups added to the player's inventory and used when needed by the player?​
->
+* Will the player have the ability to heal after taking damage? If so, should this be facilitated through health pickups found in the game environment, or through health pickups added to the player's inventory and used when needed by the player?​
+> The player healing through pickups is a great addition, though it should be immediate after the player walks over it, as no inventory system is required for the prototype.
 
 * Is the game intended to be single-player only, or are there plans to incorporate multiplayer functionality?​
->
+> Single player only.
 
 * Which platform(s) is the game expected to run on (e.g., PC, console, mobile)?​
->
+> The only current platform is PC.
 
 * Do you have a specific location or environment in mind for the game's setting, or would basic geometric designs suffice for the intended experience?​
->
+> Basic geometric designs would be sufficient for the prototype.
 
 * Could you please confirm the due date for the project being 1 June, 2025?​
->
+> Yes, the due date for the project is 1st of June, 2025.
 
 * What is the approximate age bracket of the students who will have access to the game?
-> 
+> The current age bracket is likely 18-25, though you are free to experiment with the placeholder content for the project as it will be able to be adjusted later.
 
 ---
 
