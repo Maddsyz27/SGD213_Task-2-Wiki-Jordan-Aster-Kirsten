@@ -6,25 +6,68 @@
 ### Brief
 [//]: # (What was the client's brief?)
 The client is seeking a proof of concept for a game that is simple, yet a leader in its class
-* Users should be drawn to the game by its eye-catching visuals
-* The audio in the game should be exciting and drive the player's emotion
-* The gameplay should be fast-paced, quick to gain feedback and quick to retry
+**LIST ORIGINAL STATEMENT OF REQUIREMENTS**
 
 ### Communication
-* When do you need this prototype by?
-> I need the prototype by Friday Week 13.
+Art Style & Gameplay
+* Could you provide some visual references or screenshots that represent the style and tone you are aiming for?
+> Do not worry about intended visuals, as no assets are expected on your end: I will be able to adjust various values and settings on my end instead.
+  
+* Will the gameplay be 2D or 3D?
+> I would love the more complex design space of the 3D shooter, so 3D would be the preference. 
 
-* What kind of games do you think are good?
-> Couch coop games appear to be simple enough to develop and can move reasonable units if done well.
+Player Character Mechanics
+* Should the player be able to carry multiple grenades?
+> The player should be able to carry multiple grenades, since they would simply act as an ammo counter. If you meant different types, a weapon switching system you would need to implement would allow me to duplicate existing presets to create them during further development, so it wouldn't be a necessary addition on your end.
 
-* Since you only need a prototype, are you happy for us to focus on gameplay and use based geometry for art assets?
-> Yes perfect, the prototype is a proof of concept, please don't waste time on creating art assets; if the game is fun with simple art assets, that is perfect. At least change the colour palette to be aesthetically pleasing though.
+* Should the player be able to shoot both weapons?
+> Both weapons should be functional, though they won't be able to be fired simultaneously.
 
-* Do you need a menu system?
-> Well I need to be able to take this to potential investors to sell the idea. If I need to quit out of it every time I finish that will not work. It will need basic UI functionality, pausing, quitting out of game, exiting the application, returning to main menu, playing the game from main menu.
+* Should the player be able to throw grenades?
+> Yes, the intent for the grenade to be throwable.
 
-* Are there any themes you think are popular or you would like to see in your game?
-> Hmm... not really. I do like dragons though! I think silly games catch people's eyes?
+* Will players need to pick up weapons and grenades within the game world?
+> That sounds like a great interaction. Perhaps a generic way to interact with items in the world and an equip function for the player? It would allow the project to be far more customizable down the road.
+
+* Will guns have limited ammunition, or will they have infinite ammo?
+> Ammo should be finite, though a simple toggle in the editor to make it infinite would be a good addition for prototyping/testing.
+
+* Will the player and enemies have health systems to take and deal damage?
+> Yes, both the player and the enemies need to have a health system that interacts with damage.
+
+Enemy AI & Movement
+* Will movement for both the player and enemies be limited to basic directions (forward, backward, left, right), or would you like additional actions such as running, crouching, or jumping?
+> The movement should be fairly basic for this stage, with the addition of jumping for the player. As noted in the basic description, I just need the enemies to be able to patrol around and detect the player.
+
+User Interface
+* Would you like an in-game HUD displaying player stats such as health, ammo, current weapon, and grenade count?
+> A minimal HUD for the various characteristics you've listed would be great to see, though as always, no assets are required: any UI elements are something I can adjust later and only need a system that reads current values from the player/enemies and feeds it to the HUD.
+
+* Should we also include a start menu, pause functionality, and a quit option?
+> A save point system sounds good, though non-critical. Perhaps we can keep it in mind as a final stretch goal.
+
+* Is there a particular code structure or architecture you would like us to follow to help support your students or for further future development?
+> When it comes to architecture and systems, the choices are up to you, since you'll have a better idea of the ideal approach once the requests and requirements are considered.
+
+* Will the player have the ability to heal after taking damage?
+
+* If so, should this be facilitated through health pickups found in the game environment, or through health pickups added to the player's inventory and used when needed by the player?​
+>
+
+* Is the game intended to be single-player only, or are there plans to incorporate multiplayer functionality?​
+>
+
+* Which platform(s) is the game expected to run on (e.g., PC, console, mobile)?​
+>
+
+* Do you have a specific location or environment in mind for the game's setting, or would basic geometric designs suffice for the intended experience?​
+>
+
+* Could you please confirm the due date for the project being 1 June, 2025?​
+>
+
+* What is the approximate age bracket of the students who will have access to the game?
+> 
 
 ---
 
@@ -53,8 +96,8 @@ The client is seeking a proof of concept for a game that is simple, yet a leader
 
 ### Assumptions
 [//]: # (What are you assuming based on client responses)
-* UI art does not need to be high quality, will just use basic Unity UI sprites
-* Particles will be important, but since we shouldn't spend time on art, will use standard asset or free particle assets
+* 
+* No other features of system requirements are required for the final build for the client beyond this brief.
 
 ---
 ## Risks
