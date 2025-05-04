@@ -74,12 +74,8 @@ A minimal HUD interface for the player to view health status, ammunition count f
 
 ---
 
-[//]: # (### Schedule of Rates)
-[//]: # (This is where you would list your hourly rates and time estimations)
-
 ## Milestones
-[//]: # (Breakdown of phases of development, with estimated delivery times)
-[//]: # (In practice, if you were working on fixed price phases, you would also list expected payment after each phase.)
+
 | Phase | Completion Date |
 | --- | --- |
 | Initial Production - Client Specification Documentation | 7 April 2025 |
@@ -93,11 +89,11 @@ A minimal HUD interface for the player to view health status, ammunition count f
 ---
 
 ## Agreement
-[//]: # (List out the arrangement)
+
 Work will be completed to fit the provided Statement of Works, any work outside of this arrangement will be billed at our hourly rate, or, quoted separately.
 
 ## Signatures
-[//]: # (If dealing in person, agreements should be signed so that additional work can be billed)
+
 | Client Name | Date | Signature |
 | --- | --- | --- |
 | Daniell | 4 May 2025 | ________ |
