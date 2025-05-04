@@ -129,8 +129,8 @@ The client has expressed the use of a basic 3D environment using geometric shape
 ---
 
 ## Justification
-We really like the mention of "silly games catch people's eyes". So we took your suggestion of dragons and built on it with alliteration as a starting point. We went through many ideas, but finally came up with a title called "Donuts, Daggers & Dragons.
+Given the project’s objective and style of gameplay, we decided to name the game ‘Training Grounds: First Person Shooter’, being concise with the purpose we hope to fulfill in the title. Moreover, with the project centred around a 3D FPS look and feel, we opted to keep the overall visuals simplistic to focus on the mechanics side of the project with confirmation from the client that producing new assets wasn’t necessary. 
 
-The name along was enough to get conversation happening, and we soon found ourselves thinking of countless, comical and enjoyable scenarios stemming from the title.
+We also decided to keep the enemy AI and its standard loop rather simple, given the constraints and client expectations that it should primarily focus on patrolling and detecting. We also chose to add healing pickups into the game, that instantly add to the character health when walked over since we have chosen not to include an inventory system. The character health bar will be displayed visually on the screen, so the player will be able to keep track and have a more immersive experience. With client communication, we also decided to keep the game as single player only, since the enemy AI sufficed enough as both the objective and obstacle. 
 
-etc. Explain your design decisions in regards to the client's requirements.
+The game has a target audience of 18-25 year olds, which already the style of game caters towards. However, to further target this bracket and make the player experience as enjoyable as possible, we took to focusing on making the gameplay as intuitive as we could. 
