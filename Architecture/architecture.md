@@ -6,3 +6,4 @@ As we are a small development team with a tight schedule to complete this projec
 With this structure in mind, we would also like to add object pooling to help improve performance for instances like grenades, bullets, pickups and enemies. In addition, this FPS template project will cater as a practical learning tool for students to observe the basic construction of more advanced coding map.
 
 ## UML Diagram of C# Programming architecture
+![Task2UML drawio](https://github.com/user-attachments/assets/630e9dda-9f3a-4e49-8b29-01b2ff9dc930)
