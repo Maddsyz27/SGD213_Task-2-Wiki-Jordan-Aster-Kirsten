@@ -58,13 +58,16 @@ A minimal HUD interface for the player to view health status, ammunition count f
 [//]: # (What are the client's expectations?)
 
 **Date of Completion**
+
 The final concept build will be delivered on the required date - 1 June, 2025.
 
 **Communication**
+
 The client will be updated on the progress of the project with detailed information regarding tasks currently being worked on, tasks tested and completed, future weekly steps to be implemented and overall remaining work to be completed. Any design issues or concerns will be communicated promptly with the client with steps taking to resolve said issue/concern. All correspondance with the client will be met with professionalism and courtesy.
 Communication by the development team will communicate effectively regarding completed tasks, any issues or concern related to or impact the completion of the project, is done in a timely manner. A Trello account will communicate project development (shared with Client) and a Dicord group will be used for indepth communications.
 
 **Art**
+
 The client has expressed the use of a basic 3D environment using geometric shapes as being sufficient for artistic design on the project as the C# code and use of Unity is the focal subject. A standard colour palette will be used to ensure the player associates colours according to game standards.
 
 ### Assumptions
