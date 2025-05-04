@@ -102,16 +102,15 @@ User Interface
 
 ### Risks
 [//]: # (What are the risks of this project)
-* Unity and C# are excellent prototyping tools, but working quickly often means less than perfect code
-    * Project may not be fit for use in further development
-    * Bugs may be present in prototype due to the short turn-around
-    * Working quickly is error-prone
+* Our project developers have less experience and knowledge of the C# code that the project centres around, as well as limited use of unity as a game engine. This may require certain parts to take longer to complete, based on difficulty level. 
+* Since this project has a concrete timeline as specified by the client, there are strict time constraints the project must follow, making it more likely to see the appearance of bugs and flaws in the coding. 
+* Moreover, with the same idea of having such harsh time deadlines, developers need to consider cutting edges for the sake of overall functionality with some areas not being as fleshed out as desired. 
 
 ### Risk Management
 [//]: # (How are you managing the mentioned risks)
-* All coding will aim to be designed in an extensible manner
-* Testing will be undertaken throughout prototype development
-* Using source control we will ensure our code is safe and usable at all times
+* Consistent team communication, in the form of organised meetings, will be utilised to eliminate any coding conflicts and solve any current problems in discussion. 
+* Our expectations for the project and its timeline will be kept at a feasible level, aiming to keep ideas both reasonable whilst aligning with client criteria. 
+* Project testing will take place consistently throughout the development phase, to avoid only fixing flawed code and errors near the project’s finish.  
 
 ---
 
@@ -119,7 +118,9 @@ User Interface
 
 ### Constraints
 [//]: # (What are the constraints of this project)
-* We have a tight timeframe, so we will need to make fast decisions, which may be less than perfect
+* With a limited space of time in which the game will be constructed, decisions and general execution will need to be fast-paced and concise. 
+* Having a development team that consists of only a few developers means that ideas and decisions may be more close-minded, given the lack of opinion variety. 
+* Given the development team’s current experience with using C#, there may be issues with skill level that can hinder or prolong a task’s completion. 
 
 ---
 
