@@ -82,7 +82,13 @@ A minimal HUD interface for the player to view health status, ammunition count f
 [//]: # (In practice, if you were working on fixed price phases, you would also list expected payment after each phase.)
 | Phase | Completion Date |
 | --- | --- |
-| Prototype | Week 13 |
+| Initial Production - Client Specification Documentation | 7 April 2025 |
+| Presentation of CSD to Client | 4 May 2025 |
+| Client Acceptance of CSD | 5 May 2025 |
+| Core System Setup | 11 May 2025 |
+| Feature Implementation | 18 May 2025 |
+| Playtesting and Polishing | 28 May 2025 |
+| Build, Test, Deliver | 1 June 2025 |
 
 ---
 
@@ -94,8 +100,10 @@ Work will be completed to fit the provided Statement of Works, any work outside 
 [//]: # (If dealing in person, agreements should be signed so that additional work can be billed)
 | Client Name | Date | Signature |
 | --- | --- | --- |
-| John Doe | 12-34-5678 | ________ |
+| Daniell | 4 May 2025 | ________ |
 
-| Team Rep. | Date | Signature |
+| Team member | Date | Signature |
 | --- | --- | --- |
-| Jane Doe | 12-34-5678 | ________ |
+| Kirsten | 4 May 2025 | ________ |
+| Aster | 4 May 2025 | ________ |
+| Jordam | 4 May 2025 | ________ |
