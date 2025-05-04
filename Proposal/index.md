@@ -24,16 +24,22 @@ Read the design justification [here](project_justification.md).
 
 ## Statement of Works
 [//]: # (This section is about managing expectations; list out all of the qualities that will be in the final product)
+
 **Dual Weapon System**
 Players can switch between two firearms. Restrictive use of each firearm with be only when each firearm is equipped. Only one firearm can be equipped at a time.
+
 **Grenade Mechanic**
 A throwable grenade adds strategic depth and will allow players to manage groups of enemies.​
+
 **Basic Enemy AI**
 Enemies patrol predefined areas and, once the player is within a certain range, will orient themselves to face the player. This will enhance immersion without introducing complex combat behaviors.​
+
 **Player Movement**
 Responsive controls will enable players to navigate the environment smoothly with basic movement mechanics inclusive of a jump mechanism.​
+
 **Health System**
 Players can recover health through pickups scattered around the environment OR by using items stored in their inventory.​ - (waiting on Client's decision)
+
 **HUD Interface**
 A minimal HUD interface for the player to view health status, ammunition count for eqipped weapon, grenade indicator with count available, and currently equipped weapon. This will ensure the player has crucial real time feedback during gameplay. A centralised crosshairs will also aid in precision.
 
@@ -50,21 +56,21 @@ A minimal HUD interface for the player to view health status, ammunition count f
 
 ### Expectations
 [//]: # (What are the client's expectations?)
+
 **Date of Completion**
 The final concept build will be delivered on the required date - 1 June, 2025.
+
 **Communication**
 The client will be updated on the progress of the project with detailed information regarding tasks currently being worked on, tasks tested and completed, future weekly steps to be implemented and overall remaining work to be completed. Any design issues or concerns will be communicated promptly with the client with steps taking to resolve said issue/concern. All correspondance with the client will be met with professionalism and courtesy.
 Communication by the development team will communicate effectively regarding completed tasks, any issues or concern related to or impact the completion of the project, is done in a timely manner. A Trello account will communicate project development (shared with Client) and a Dicord group will be used for indepth communications.
 
-* Does **not** require audio
-* Does **not** require high quality art
-    * Can use basic geometry
-    * Should still look nice using colour palettes
+**Art**
+The client has expressed the use of a basic 3D environment using geometric shapes as being sufficient for artistic design on the project as the C# code and use of Unity is the focal subject. A standard colour palette will be used to ensure the player associates colours according to game standards.
 
 ### Assumptions
 [//]: # (What are you assuming based on client responses)
-* UI art does not need to be high quality, will just use basic Unity UI sprites
-* Particles will be important, but since we shouldn't spend time on art, will use standard asset or free particle assets
+* The project does not require audio.
+* Minimal funding may be exchanged, but assets may be obtained by free means.
 
 ---
 
