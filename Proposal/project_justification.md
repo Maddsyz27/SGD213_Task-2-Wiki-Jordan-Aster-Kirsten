@@ -73,28 +73,32 @@ User Interface
 
 ### Requirements
 [//]: # (What are the requirements of the finished project?)
-* Needs the product in 5 weeks.
-* Gameplay should be fast-paced
-* Rounds should be short
-* Should be quick to restart
-* Feedback is a major point
-* People should be drawn to it by it's appearance
-    * Needs a catchy name
+* The final concept build must to be supplied to the client by 1 June, 2025
+* Game-play should be fast-paced - similar to other shooter games like Halo 1-2, Quake, Doom and Duke Nukem.
+* Correspondance with the client regarding issues, design changes and updates will be made accordingly and in a timely manner.
+* The game should showcase basic first person shooter mechanics for educational purposes.
+* The game will include vertical a level design to incorporate movement mechanics required by client.
+* The game must adhere to target audience standards suggested by client. - (can be more specific once response from Olexiy)
+* The game should allow for a save point system if time constraints allow.
+* Development team will correspond respectfully with each other on a timely basis with any issues, concerns and/or clarification of scope.
 
 ### Expectations
 [//]: # (What are the client's expectations?)
-* Project delivered on time
-* Weekly updates on progress
-* Communication with the client when design issues encountered
-* Quality transparent project management (add the client)
-* Does **not** require audio
-* Does **not** require high quality art
-    * Can use basic geometry
-    * Should still look nice using colour palettes
+
+**Date of Completion**
+The final concept build will be delivered on the required date - 1 June, 2025.
+
+**Communication**
+The client will be updated on the progress of the project with detailed information regarding tasks currently being worked on, tasks tested and completed, future weekly steps to be implemented and overall remaining work to be completed. Any design issues or concerns will be communicated promptly with the client with steps taking to resolve said issue/concern. All correspondance with the client will be met with professionalism and courtesy.
+Communication by the development team will communicate effectively regarding completed tasks, any issues or concern related to or impact the completion of the project, is done in a timely manner. A Trello account will communicate project development (shared with Client) and a Dicord group will be used for indepth communications.
+
+**Art**
+The client has expressed the use of a basic 3D environment using geometric shapes as being sufficient for artistic design on the project as the C# code and use of Unity is the focal subject. A standard colour palette will be used to ensure the player associates colours according to game standards.
 
 ### Assumptions
 [//]: # (What are you assuming based on client responses)
-* 
+* The project does not require audio.
+* Minimal funding may be exchanged, but assets may be obtained by free means.
 * No other features of system requirements are required for the final build for the client beyond this brief.
 
 ---
