@@ -5,8 +5,12 @@
 
 ### Brief
 [//]: # (What was the client's brief?)
-The client is seeking a proof of concept for a game that is simple, yet a leader in its class
-**LIST ORIGINAL STATEMENT OF REQUIREMENTS**
+The client is seeking a proof of concept for a game that is simple, portraying educational value for programming and basic FPS mechanics.
+
+**ORIGINAL STATEMENT OF REQUIREMENTS**
+* Looking for a standard Doom, Halo 1-2, Quake, or Duke Nukem-style FPS.
+* Need some basic enemy AI that walks around and looks at the player when in range (They don’t have to shoot back).
+* The player character needs to have 2 guns they can change, a grenade, and movement. 
 
 ### Communication
 Art Style & Gameplay
