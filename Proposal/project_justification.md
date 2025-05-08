@@ -82,7 +82,7 @@ User Interface
 * Correspondance with the client regarding issues, design changes and updates will be made accordingly and in a timely manner.
 * The game should showcase basic first person shooter mechanics for educational purposes.
 * The game will include vertical a level design to incorporate movement mechanics required by client.
-* The game must adhere to target audience standards suggested by client. - (can be more specific once response from Olexiy)
+* The game must adhere to target audience for standards suggested by client.
 * The game should allow for a save point system if time constraints allow.
 * Development team will correspond respectfully with each other on a timely basis with any issues, concerns and/or clarification of scope.
 
